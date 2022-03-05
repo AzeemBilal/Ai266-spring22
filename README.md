@@ -9,8 +9,9 @@
 
 | Myself Azeem bilal student of BSCS in PAF KIET University |
 
-# Ai266-spring22
-| About Daniyal Shafique|
+
+| About Daniyal Shafique| 
+|---------|
 Assalam o alaikum ..!
 This is Daniyal Shafique.I am Computer Science Student.
 I am Learning Artificial intelligence Course from Sir Farooq.
