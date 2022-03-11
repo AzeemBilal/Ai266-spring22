@@ -21,3 +21,8 @@ It is very interesting course. It gives me knowledge and information regarding t
 | About Naveed Jilani| 
 |--------|
 |Enrolled In AI, Isntructor name is Sir Farooq, I am a php Developer,Currently given my Services a php backend at Insitech Digital.https://insitech.ae/ |
+
+Asslam  o alikum
+this is asad ullah khan. i am computer science student,
+I am Learning Artificial intelligence Course from Sir Farooq.
+It is very interesting course. It gives me knowledge and information regarding the course.|
